@@ -5,7 +5,7 @@
 ![Dashboard](Dashboard/dashboard_screenshot.jpg)
 
 ## 📌 Project Overview
-Annual sales analysis of Vrinda Store using raw transactional data of 10,000+ orders across multiple platforms and Indian states.
+Annual sales analysis of Vrinda Store using raw transactional data of 30,000+ orders across multiple platforms and Indian states.
 
 ## ❓ Business Questions Answered
 - Which month had the highest orders and sales?

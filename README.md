@@ -2,7 +2,7 @@
 
 > Real-World Data Analysis Project | Excel Dashboard
 
-![Dashboard](Dashboard/dashboard_screenshot.png)
+![Dashboard](Dashboard/dashboard_screenshot.jpg)
 
 ## 📌 Project Overview
 Annual sales analysis of Vrinda Store using raw transactional data of 10,000+ orders across multiple platforms and Indian states.
